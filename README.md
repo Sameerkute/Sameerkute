@@ -7,117 +7,93 @@
 
 ✨ **About Me:**
 
-- 🔭 I’m currently working on **[Project Name](link-to-project)** 
-- 🌱 I’m exploring **Cloud Computing**, **AI/ML**, and **DevOps** 
-- 💬 Ask me about **Python**, **Java**, **React**, or **Full-Stack Development**
-- 📫 Reach me at **sudhanshunarayane@gmail.com**
-- ⚡ Fun fact: I love building side projects that solve real-world problems!
+Hello! I’m Sameer Kute, a Cloud & DevOps Engineer . I am passionate about designing, deploying, and managing scalable and automated cloud infrastructure. My expertise spans AWS, Docker, Kubernetes, Terraform, Jenkins, and CI/CD pipelines, enabling seamless and efficient software deployments.
+
+---
+
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Sameer Kute</h1>
+<h3 align="center">Aspiring Cloud & DevOps Engineer | Passionate about Automation and Scalable Systems ☁️</h3>
 
 ---
 
 <!-- Social Media Links -->
 <h3 align="left" style="margin-top: 30px;">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="r" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/sameerkute" target="_blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="" target="_blank" style="margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="" target="_blank">
+  <a href="https://leetcode.com/Sameerkute" target="_blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:sameerkute.dev@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="42" height="38"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <!-- Add more as needed -->
 </p>
 
 ---
 
+<!-- GitHub Stats Section -->
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sido-dev&show_icons=true&locale=en&layout=compact" alt="sido-dev" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sido-dev&show_icons=true&locale=en" alt="sido-dev" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sido-dev&" alt="sido-dev" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sameerkute&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sameerkute" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameerkute&show_icons=true&locale=en&theme=tokyonight" alt="Sameerkute" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerkute&theme=tokyonight" alt="Sameerkute" />
 </p>
 
 ---
 
-### 🌟 Featured Projects:
+### 🚀 Featured Projects:
 
-- [Project Name 1](link) - A short description of the project.
-- [Project Name 2](link) - Another cool project with a brief description.
+- [Flight Reservation System using Cloud](https://github.com/Sameerkute/Flight-Reservation-System) – A scalable airline booking system leveraging cloud infrastructure.
+- [DevOps CI/CD Pipeline Project](https://github.com/Sameerkute/DevOps-CICD-Pipeline) – Automated deployment pipeline using Docker, Jenkins, and Kubernetes.
+- [Python Automation Scripts](https://github.com/Sameerkute/Python-Automation) – Collection of useful Python automation tools and scripts.
 
 ---
 
-<h3 align="center">"Learning never exhausts the mind." — Leonardo da Vinci 🌟</h3>
-
+<h3 align="center">"Strive for progress, not perfection." 💡</h3>
 
 <!---
-Sido-dev/Sido-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sameerkute/Sameerkute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 You can click the Preview link to take a look at your changes.
 --->
