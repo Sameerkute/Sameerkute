@@ -64,7 +64,7 @@ Hello! I’m Sameer Kute, a Cloud & DevOps Engineer . I am passionate about desi
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sameerkute&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sameerkute" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sameerkute&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sameerkute" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameerkute&show_icons=true&locale=en&theme=tokyonight" alt="Sameerkute" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerkute&theme=tokyonight" alt="Sameerkute" />
 </p>
