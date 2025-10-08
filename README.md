@@ -1,4 +1,8 @@
-[![MasterHead](https://assets.techrepublic.com/uploads/2023/10/tr_20231018-devops-engineer-roles-and-responsibilities.png)](https://github.com/Sameerkute?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Sameerkute?tab=repositories" target="_blank">
+    <img src="https://assets.techrepublic.com/uploads/2023/10/tr_20231018-devops-engineer-roles-and-responsibilities.png" alt="MasterHead" height="300"/>
+  </a>
+</p>
 <h1 align="center">Hey 👋, I'm Sameer Kute</h1>
 <h3 align="center">A Passionate Cloud & Devops Engineer 🚀 Passionate about Automation and Scalable Systems ☁️</h3>
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
@@ -27,6 +31,9 @@ Hello! I’m Sameer Kute, a Cloud & DevOps Engineer . I am passionate about desi
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -35,9 +42,6 @@ Hello! I’m Sameer Kute, a Cloud & DevOps Engineer . I am passionate about desi
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
