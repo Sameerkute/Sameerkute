@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Sameerkute?tab=repositories" target="_blank">
-    <img src="https://assets.techrepublic.com/uploads/2023/10/tr_20231018-devops-engineer-roles-and-responsibilities.png" alt="MasterHead" height="300"/>
+    <img src="https://assets.techrepublic.com/uploads/2023/10/tr_20231018-devops-engineer-roles-and-responsibilities.png" alt="MasterHead" height="300" width="400"/>
   </a>
 </p>
 <h1 align="center">Hey 👋, I'm Sameer Kute</h1>
