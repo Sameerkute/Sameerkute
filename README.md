@@ -4,14 +4,18 @@
   </a>
 </p>
 <h1 align="center">Hey 👋, I'm Sameer Kute</h1>
-<h3 align="center">A Passionate Cloud & Devops Engineer 🚀 Passionate about Automation and Scalable Systems ☁️</h3>
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
+<h3 align="left">A Passionate Cloud & Devops Engineer 🚀 Passionate about Automation and Scalable Systems ☁️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sameerkute&label=Profile%20views&color=0e75b6&style=flat" alt="Sameerkute" /> </p>
 
 ✨ **About Me:**
 
-Hello! I’m Sameer Kute, a Cloud & DevOps Engineer . I am passionate about designing, deploying, and managing scalable and automated cloud infrastructure. My expertise spans AWS, Docker, Kubernetes, Terraform, Jenkins, and CI/CD pipelines, enabling seamless and efficient software deployments.
+Hello! I’m Sameer Kute, a Cloud & DevOps Engineer . I am passionate about designing, deploying, and managing scalable and automated cloud infrastructure. My expertise spans AWS, Docker, Kubernetes, Terraform, Jenkins, and CI/CD pipelines, enabling seamless and efficient software deployments. 
+
+
+
+Reach me out:- sameer.kute@outlook.com
 
 ---
 
