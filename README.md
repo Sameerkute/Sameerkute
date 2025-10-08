@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hey 👋, I'm Sameer Kute</h1>
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <h3 align="left">A Passionate Cloud & Devops Engineer 🚀 Passionate about Automation and Scalable Systems ☁️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sameerkute&label=Profile%20views&color=0e75b6&style=flat" alt="Sameerkute" /> </p>
